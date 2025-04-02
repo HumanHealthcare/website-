@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Authorized Dealer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #333;
+        }
+        .companies {
+            list-style: none;
+            padding: 0;
+        }
+        .companies li {
+            background: #f4f4f4;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Our Business</h1>
+        <p>We are an authorized dealer of the following companies:</p>
+        <ul class="companies">
+            <li>Company 1</li>
+            <li>Company 2</li>
+            <li>Company 3</li>
+        </ul>
+        <h3>Contact Us</h3>
+        <p>Address: Your Address Here</p>
+        <p>Phone: Your Phone Number</p>
+    </div>
+</body>
+</html>
